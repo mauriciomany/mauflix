@@ -1,6 +1,66 @@
 {
   "categorias": [
     {
+      "titulo": "Agile",
+      "cor": "#DBDB11",
+      "videos": [
+        {
+          "titulo": "Transformação Agile: Por que as empresas estão aderindo? - 1º GP Conf - #01",
+          "url": "https://www.youtube.com/watch?v=BEYzt-QCUpU"
+        },
+        {
+          "titulo": "Como funcionam as Metodologias Ágeis?",
+          "url": "https://www.youtube.com/watch?v=DSCdFr3FyAg"
+        },
+        {
+          "titulo": "Scrum ou Kanban na Metodologia Ágil? - Beer For Devs",
+          "url": "https://www.youtube.com/watch?v=wxW98xudntw"
+        },
+        {
+          "titulo": "O que são métodos ágeis? #HipstersPontoTube",
+          "url": "https://www.youtube.com/watch?v=j5mCirZD-0s"
+        }
+      ]
+    },
+    {
+      "titulo": "Data Science e Inteligência Artificial",
+      "cor": "#9cd33b",
+      "link_extra": {
+        "text": "Cursos de Data Science na Alura",
+        "url": "https://www.alura.com.br/formacao-data-science"
+      },
+      "videos": [
+        {
+          "titulo": "Análise de Dados #1",
+          "url": "https://www.youtube.com/watch?v=RlGOaSPFtXc"
+        },
+        {
+          "titulo": "Análise de Dados #2",
+          "url": "https://www.youtube.com/watch?v=3k_j5SKy8k0&t=1s"
+        },
+        {
+          "titulo": "Análise de Dados #3",
+          "url": "https://www.youtube.com/watch?v=Gn6Fm3iDbd8&t=25s"
+        },
+        {
+          "titulo": "Teste de Turing",
+          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+        },
+        {
+          "titulo": "O que é Data Science?",
+          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+        },
+        {
+          "titulo": "Melhor forma de aprender Python",
+          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+        },
+        {
+          "titulo": "Como ingressar no mercado de Data Science?",
+          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+        }
+      ]
+    },
+    {
       "titulo": "Front End",
       "link": "https://www.alura.com.br/formacao-front-end",
       "cor": "#6BD1FF",
@@ -40,7 +100,7 @@
         {
           "titulo": "Base para aprender os frameworks",
           "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
-        }        
+        }
       ]
     },
     {
@@ -66,88 +126,10 @@
         {
           "titulo": "API: Dicionário do Programador",
           "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
-        }, 
+        },
         {
           "titulo": "Usando Git Direito",
           "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
-        }
-      ]
-    },
-    {
-      "titulo": "Data Science e Inteligência Artificial",
-      "cor": "#9cd33b",
-      "link_extra": {
-        "text": "Cursos de Data Science na Alura",
-        "url": "https://www.alura.com.br/formacao-data-science"
-      },
-      "videos": [
-        {
-          "titulo": "Teste de Turing",
-          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
-        },
-        {
-          "titulo": "O que é Data Science?",
-          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
-        },
-        {
-          "titulo": "Melhor forma de aprender Python",
-          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
-        },
-        {
-          "titulo": "Como ingressar no mercado de Data Science?",
-          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
-        }
-      ]
-    },
-    {
-      "titulo": "Filmes",
-      "cor": "orange",
-      "videos": [
-        {
-          "titulo": "Interestellar",
-          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
-        },
-        {
-          "titulo": "Gattaca",
-          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
-        },
-        {
-          "titulo": "A Chegada",
-          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
-        },
-        {
-          "titulo": "Feitiço do Tempo",
-          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
-        }
-      ]
-    },
-    {
-      "titulo": "Games",
-      "cor": "red",
-      "link_extra": {
-        "text": "Formação de Jogos na Alura",
-        "url": "https://www.alura.com.br/formacao-jogos-unity"
-      },
-      "videos": [
-        {
-          "titulo": "Final Fantasy 7",
-          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
-        },
-        {
-          "titulo": "Assassins Creed Valhalla",
-          "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
-        },
-        {
-          "titulo": "God of War 4",
-          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
-        },
-        {
-          "titulo": "Resident Evil 8",
-          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
-        },
-        {
-          "titulo": "Pokémon Let's Go Pikachu/Eevee",
-          "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
         }
       ]
     },
